@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Cameron and I am a fullstack developer! I specialise in Backend HTML/CSS/JS/PHP and full stack NodeJS development as well as full stack Python.
 
-- 🔭 I’m currently working on a private DiscordJS bot commission for a Discord server and developing Minecraft plugins for 1.16.5!
+- 🔭 I’m currently working on a assorted Python and P2P projects.
 - 🌱 I’m currently learning C++ development.
 - 💬 Ask me about anything you need help with.
 - 📫 How to reach me: camerondball@yahoo.com
