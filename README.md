@@ -8,7 +8,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been coding since I was 9!
 
-##### (Please note that although my profile looks empty a lot of my repos are private due to copyright, license or NDA reasons.)
+##### (Please note that although my profile looks quite empty at the moment a lot of my repos are private due to copyright, license or NDA reasons.)
+##### (Although the stats below are nice they are not entirely accurate as quite a few aof my private repos are unity projects which aren't recognised by Githubs code stat tool.)
 
 ![My Github Stats](https://github-readme-stats-ls6ncd32y-cameronball.vercel.app/api?username=cameronball&show_icons=true&theme=dracula&count_private=false)
 
