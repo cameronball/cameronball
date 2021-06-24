@@ -1,7 +1,7 @@
 # Hi there 👋
-### I'm Cameron and I am a fullstack developer! I specialise in Backend HTML/CSS/JS/PHP and full stack NodeJS development as well as full stack Python.
+### I'm Cameron and I am a fullstack developer! I specialise in Backend HTML/CSS/JS/PHP and full stack NodeJS development as well as full stack Python. Recently I also learnt and am now developing in Rust and Typescript!
 
-- 🔭 I’m currently working on a assorted Python and P2P projects.
+- 🔭 I’m currently working on a assorted Python and P2P projects. (Stuff being announced soon 👀)
 - 🌱 I’m currently learning C++ development.
 - 💬 Ask me about anything you need help with.
 - 📫 How to reach me: camerondball@yahoo.com
