@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="cameronball" /> </p>
 
-- 🔭 **I’m currently working on a assorted Python and P2P projects. (Stuff being announced soon 👀)**
+- 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>**
 
 - 🌱 **I’m currently learning C++ development.**
 
