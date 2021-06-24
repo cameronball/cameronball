@@ -12,4 +12,4 @@
 
 ![My Github Stats](https://github-readme-stats-mhqheu649-cameronball.vercel.app/api?username=cameronball&show_icons=true&theme=dracula&count_private=false)
 
-![Top Langs](https://github-readme-stats-mhqheu649-cameronball.vercel.app/api/top-langs/?username=cameronball&theme=dracula&count_private=false)
+![Top Langs](https://github-readme-stats-mhqheu649-cameronball.vercel.app/api/top-langs/?username=cameronball&theme=dracula&count_private=true)
