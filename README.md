@@ -1,5 +1,5 @@
 <h3 align="center">I'm Cameron and I am a passionate fullstack developer!</h3>
-<script>alert("Oops!");</script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="cameronball" /> </p>
 
 - 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>, the future of currency.**
