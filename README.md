@@ -2,17 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="cameronball" /> </p>
 
-- 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>**
+- 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>, the future of currency.**
 
 - 🌱 **I’m currently learning C++ development.**
 
-- 😄 Pronouns: [he/him](he/him)
+- 😄 **Pronouns: [he/him](he/him)**
 
 - 💬 **Ask me about anything you need help with.**
 
-- 📫 How to reach me **camerondball@yahoo.com**
+- 📫 **How to reach me camerondball@yahoo.com**
 
-- ⚡ Fun fact **I've been coding since I was 9!**
+- ⚡ **Fun fact I've been coding since I was 9!**
 
 
 <h3 align="left">Languages and Tools:</h3>
