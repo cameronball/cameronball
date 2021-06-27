@@ -6,7 +6,7 @@
 
 - 🌱 **I’m currently learning C++ development.**
 
-- 😄 **Pronouns: [he/him](he/him)**
+- 😄 **Pronouns: he/him**
 
 - 💬 **Ask me about anything you need help with.**
 
