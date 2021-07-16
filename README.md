@@ -10,7 +10,7 @@
 
 - 💬 **Ask me about anything you need help with.**
 
-- 📫 **How to reach me camerondball@yahoo.com**
+- 📫 **How to reach me: camerondball@yahoo.com**
 
 - ⚡ **Fun fact I've been coding since I was 9!**
 
