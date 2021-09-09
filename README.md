@@ -6,13 +6,13 @@
 
 - 🌱 **I’m currently learning C++ development.**
 
-- 😄 **Pronouns: he/him**
+- 😄 **Pronouns: they/them**
 
 - 💬 **Ask me about anything you need help with.**
 
 - 📫 **How to reach me: camerondball@yahoo.com**
 
-- ⚡ **Fun fact I've been coding since I was 9!**
+- ⚡ **Fun fact: I've been coding since I was 9!**
 
 
 <h3 align="left">Some of the Languages and Tools I can use:</h3>
