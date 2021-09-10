@@ -6,8 +6,6 @@
 
 - 🌱 **I’m currently learning C++ development.**
 
-- 😄 **Pronouns: they/them**
-
 - 💬 **Ask me about anything you need help with.**
 
 - 📫 **How to reach me: camerondball@yahoo.com**
