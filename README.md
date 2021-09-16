@@ -1,10 +1,9 @@
-<h3 align="center">I'm Cameron and I am a passionate fullstack developer!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="cameronball" /> </p>
-
+<h3 align="center">I'm Cameron and I am a passionate fullstack developer! <br><br>
+<img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="cameronball" />
+</h3>
 - 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>, the future of currency. As well as <a href="https://githhb.com/popularis-project/popularis-platform">Popularis</a>, the future of society and the solution to all the flawed ideologys in the world.**
 
-- 🌱 **I’m currently learning C++ development.**
+- 🌱 **I’m currently learning about democracy, society and political systems for my project <a href="https://github.com/popularis-project/popularis-platform">Popularis</a>.**
 
 - 💬 **Ask me about anything you need help with.**
 
