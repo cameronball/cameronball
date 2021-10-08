@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="Profile Views" />
 </h3>
 
-- 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>, the future of currency. Which is a part of <a href="https://github.com/popularis-project/popularis-platform">Popularis</a>, the future of society and the solution to every ideology being flawed in some way. These may be the most influential and societally important projects in humankind.**
+- 🔭 **I’m currently working on <a href="https://github.com/stronghold-financial/stronghold">Stronghold</a>, the future of currency. This is a part of <a href="https://github.com/popularis-project/popularis-platform">Popularis</a>, the future of society and the solution to every ideology being flawed in some way. These may be the most influential and societally important projects in humankind.**
 
 - 🌱 **I’m currently learning about democracy, society and political systems for my project <a href="https://github.com/popularis-project/popularis-platform">Popularis</a>.**
 
