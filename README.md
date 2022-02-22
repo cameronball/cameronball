@@ -1,4 +1,4 @@
-<h3 align="center">I'm Kiera and I am a passionate fullstack developer! <br><br>
+<h3 align="center">Hi! I am a passionate fullstack developer! <br><br>
 <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="Profile Views" />
 </h3>
 
