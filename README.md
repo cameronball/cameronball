@@ -2,9 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="Profile Views" />
 </h3>
 
-- 🔭 **I’m currently working on 'BlockBandit', an innovative Web3 cryptocurrency blockchain game.**
+- 🔭 **I’m currently working on <a href="https://kiwe.social">'Kiwe'</a>, a birdapp style social media site. View the source <a href="https://github.com/cameronball/kiwe">here.</a>**
 
-- 🌱 **I’m currently learning solidity and blockchain protocols for use in BlockBandit.**
+- 🌱 **I’m currently learning secure end-to-end encryption to incorporate into messaging in Kiwe.**
 
 - 💬 **Ask me about anything you need help with.**
 
