@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="Profile Views" />
 </h3>
 
-- 🔭 **I’m currently working on <a href="https://kiwe.social">'Kiwe'</a>, a birdapp style social media site. View the source <a href="https://github.com/cameronball/kiwe">here.</a>**
+- 🔭 **I’m currently working on <a href="https://kiwe.social">'Kiwe'</a>, a birdapp style social media site. View the source <a href="https://github.com/cameronball/kiwe">here.</a> I am also working on <a href="https://github.com/cameronball/harmony">Harmony</a> a fullstack typescript clone of discord.**
 
 - 🌱 **I’m currently learning secure end-to-end encryption to incorporate into messaging in Kiwe.**
 
