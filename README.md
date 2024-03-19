@@ -6,6 +6,8 @@
 
 - 🌱 **I’m currently learning secure end-to-end encryption to incorporate into messaging in Kiwe.**
 
+- ✅ **I recently completed <a href="https://github.com/cameronball/ai-reading-finder">AI Reading Finder</a>, a ChatGPT powered tool to allow you to find book reccomendations based on your favourite books!**
+
 - 💬 **Ask me about anything you need help with.**
 
 - 📫 **How to reach me: camerondball@yahoo.com**
