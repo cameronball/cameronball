@@ -12,7 +12,7 @@
 
 - 📫 **How to reach me: camerondball@yahoo.com**
 
-- 💼 **Email me for freelance work :)**
+- 💼 **Founder & CEO - Redesignary**
 
 - ⚡ **Fun fact: I've been coding since I was 9!**
 
