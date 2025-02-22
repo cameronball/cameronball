@@ -2,11 +2,11 @@
 <img src="https://komarev.com/ghpvc/?username=cameronball&label=Profile%20views&color=0eb44d&style=flat-square" alt="Profile Views" />
 </h3>
 
-- 🔭 **I’m currently working on 'Kiwe', a birdapp style social media site. View the source <a href="https://github.com/cameronball/kiwe">here.</a> I am also working on <a href="https://github.com/cameronball/harmony">Harmony</a> a fullstack typescript clone of discord.**
+- 🔭 **I’m currently working on top secret projects, coming soon.**
 
-- 🌱 **I’m currently learning secure end-to-end encryption to incorporate into messaging in Kiwe.**
+- 🌱 **I’m currently learning deployment and scaling of rapidly growing full stack apps.**
 
-- ✅ **I recently completed <a href="https://github.com/cameronball/ai-reading-finder">AI Reading Finder</a>, a ChatGPT powered tool to allow you to find book reccomendations based on your favourite books!**
+- ✅ **I recently completed <a href="https://elections.global">elections.global</a>, a global election tracker!**
 
 - 💬 **Ask me about anything you need help with.**
 
